@@ -1,0 +1,15 @@
+body{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background: #cde6d0;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  
